@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thenewcoder2010. I know a fair bit of Python but I don't enough have enough knowledge to get a job!
-- 👀 I’m interested in Python and C++
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python, Java and C++
+- 🌱 I’m currently learning Python, C++, Java
 
 
 <!---
